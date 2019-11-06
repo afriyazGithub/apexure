@@ -27,7 +27,7 @@ description: As an agency, we love Slack. It makes our work life more manageable
   the best practices for using Slack for business.
 how-to-create-repeater-description:
 - |-
-  #### Self hosted landing pages
+  ### Self hosted landing pages
 
   If you host your website yourself and manage it directly without a content management system you can get going by either building a page in html/css and then hosting it. although it’s the most simplest way to get started but its not the most efficient. static web pages load up fast and you have granular control if you are a developer. however, most of the time it will be a job of a marketer to run lead generation campaigns like a webinar.
 - |-
