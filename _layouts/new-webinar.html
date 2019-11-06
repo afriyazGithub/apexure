@@ -73,20 +73,19 @@
           <div class="outer_content_section_wrapper outer_content_webinar">
             <div class="row mx-auto">
  
-
+              <div class="col-md-4">
+                <div class="center_content">
                   
                     {% assign i = 0 %}
 {% for mega-guide-repeat-description in page.mega-guide-repeat-description %}
     {% assign i = i | plus:1 %}
-                  <div class="col-md-4">
-                <div class="center_content">
    <a href="javascript:" class="hover_link" id="link-{{ i }}">   {{ mega-guide-repeat-description | markdownify }} </a>
-                </div>
-              </div>
+
 {% endfor %}
  
                
-
+                </div>
+              </div>
 
             </div><!-- row-->
           </div> <!-- outer_content_section_wrapper ends -->
