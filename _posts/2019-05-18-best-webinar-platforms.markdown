@@ -36,6 +36,18 @@ mega-guide-repeat-description:
   ![g3.png](/uploads/g3.png)
 
   #### WHat you need to run an effective webinar campaign
+- |-
+  ![g4.png](/uploads/g4.png)
+
+  #### What factors influence conversions on a webinar landing page
+- |-
+  ![g5.png](/uploads/g5.png)
+
+  #### What to consider when choosing a webinar platform
+- |-
+  ![g6.png](/uploads/g6.png)
+
+  #### Best webinar platform to check out in 2019
 author: Waseem Bashir
 image: "/uploads/top-3-reasons-why-we-use-slack.jpg"
 take-away-image: "/uploads/3-reasons-why-we-use-slack.jpg"
