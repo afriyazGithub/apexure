@@ -39,6 +39,17 @@ meta-keywords: Slack best practices, How to use slack,  Slack for Business, Slac
 description: As an agency, we love Slack. It makes our work life more manageable and
   effective. Using the tool for a few years, we have learned many lessons and share
   the best practices for using Slack for business.
+mega-guide-title-description: "### In this mega guide, we’ll tell you all you need
+  to know about using webinar and webinar landing pages to generate leads, including:"
+mega-guide-repeat-description:
+- |-
+  ![g1.png](/uploads/g1.png)
+
+  #### How to create a webinar landing page
+- |-
+  ![g2.png](/uploads/g2.png)
+
+  #### WHat you need to run an effective webinar campaign
 layout: new-webinar
 ---
 
