@@ -124,6 +124,15 @@ $("#link-6").bind("click", function()
 }, 1800);
 });
 
+
+$("#move-down").bind("click", function()
+   {
+     var hash = "#blog_single_content_wrapper";
+     $('html, body').animate({
+           scrollTop: $(hash).offset().top
+}, 1800);
+});
+
 // header active class 
 $.each($('#menu-header-menu').find('> li'), function () {
   var menuItem = $(this).find('a');

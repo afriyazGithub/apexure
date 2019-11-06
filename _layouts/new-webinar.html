@@ -64,8 +64,7 @@
         <div class="row">
           <div class="col">
             <div class="contents">
-              <h3>In this mega guide, we’ll tell you all you need to know 
-                about using webinar and webinar landing pages to generate leads, including:</h3>
+              {{ page.mega-guide-title-description | markdownify }}
             </div>
           </div>
         </div><!-- row ends -->
@@ -75,15 +74,15 @@
  
 
                   
-                    {% assign i = 0 %}
-{% for mega-guide-repeat-description in page.mega-guide-repeat-description %}
-    {% assign i = i | plus:1 %}
-                  <div class="col-md-4">
-                <div class="center_content">
-   <a href="javascript:" class="hover_link" id="link-{{ i }}">   {{ mega-guide-repeat-description | markdownify }} </a>
-                </div>
+        {% assign i = 0 %}
+        {% for mega-guide-repeat-description in page.mega-guide-repeat-description %}
+            {% assign i = i | plus:1 %}
+            <div class="col-md-4">
+              <div class="center_content">
+                 <a href="javascript:" class="hover_link" id="link-{{ i }}">   {{ mega-guide-repeat-description | markdownify }} </a>
               </div>
-{% endfor %}
+            </div>
+        {% endfor %}
  
                
 
@@ -93,9 +92,9 @@
             </div>
 
             <div class="make-down-cover">
-              <div class="jump-cont">By the time you reach the end of this guide, you’ll be an expert on crafting webinar landing pages and running webinars</div>
-              <div class="lets-jump">Let’s Jump Right In! </div>
-              <div class="make-center"><img src="images/down.png" alt="down arrow" class="down-arrow"></div>
+              <div class="jump-cont">{{ page.mega-guide-bottom-description | markdownify }}}</div>
+              <a href="javascript:" class="hover_link" id="move-down"> <div class="lets-jump">Let’s Jump Right In! </div>
+              <div class="make-center"><img src="images/down.png" alt="down arrow" class="down-arrow"></div></a>
             </div>
 
       </div> <!-- blog container container-->
