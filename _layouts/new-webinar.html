@@ -142,14 +142,28 @@
     <div class="blog_container_new container">
       <div class="h2-title"><h3>What you need to run an effective webinar campaign </h3></div>
       <div class="how_does_a_lp_work_content">
-        {{page.section-4-main-heading-description | markdownify}}
+
+
+        <div class="row"> 
+        {% for effective-webinar-box-description in page.effective-webinar-box-description %}      
+            <div class="col-md-4">
+                <div class="outer_wrapper no-height">
+                  <div class="teafic-con">
+                      {{ effective-webinar-box-description | markdownify }}
+                  </div>                  
+                </div> <!-- outer_wrapper ends-->
+          </div>
+          {% endfor %}
+        </div>
+
+
+
         <div class="row">
           <div class="col-md-12">
             <div class="outer_wrapper no-height">
-                {{page.section-4-sub-heading-description | markdownify}}
                 <div class="teafic-con">
-<h4>traffic</h4>
-<p>In order to generate new leads, you can run Facebook ads and drive traffic to your landing page. Although you might be tempted to call it a webinar we would recommend using something else e.g. conference, showcase, pitch night, demo day etc. I personally think the marketing world is saturated with the word webinars in general and you come up with clever ideas to stand out from the crowd. </p>
+                  <h4>traffic</h4>
+                  <p>In order to generate new leads, you can run Facebook ads and drive traffic to your landing page. Although you might be tempted to call it a webinar we would recommend using something else e.g. conference, showcase, pitch night, demo day etc. I personally think the marketing world is saturated with the word webinars in general and you come up with clever ideas to stand out from the crowd. </p>
                 </div>
             </div> <!-- outer_wrapper ends-->
           </div> <!-- col-md-6 ends -->
@@ -157,7 +171,6 @@
         <div class="row">       
             <div class="col-md-4">
                 <div class="outer_wrapper no-height">
-                  {{page.section-4-sub-heading2-description | markdownify}}
                   <div class="teafic-con">
                       <h4> A Webinar Landing Page </h4>
                       <p>You need a dedicated landing page where you can send your traffic and we will cover this in detail today.  </p>
@@ -167,7 +180,6 @@
  
             <div class="col-md-4">
               <div class="outer_wrapper no-height">
-                {{page.section-4-sub-heading3-description | markdownify }}
                 <div class="teafic-con">
                     <h4>Deliver Webinar </h4>
                     <p>To deliver an engaging and quality webinar you would need a quality tool that can deliver an engaging and reliable service. We have got this covered as well for you.  </p>
@@ -176,7 +188,6 @@
             </div> <!-- col-md-6 ends -->
               <div class="col-md-4">
                   <div class="outer_wrapper no-height">
-                    {{page.section-4-sub-heading4-description | markdownify}}
                     <div class="teafic-con">
                         <h4>Follow Up</h4>
                         <p>Follow up is a key action which will determine your lead generation success. All the leads you generate need nurturing and constant follow up to increase your chances of success.  </p>
