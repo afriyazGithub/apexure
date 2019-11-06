@@ -3,6 +3,7 @@ title: Best Webinar Platform
 date: 2019-05-18 12:16:00 Z
 tags:
 - others
+top-graph-image: "/uploads/Image@2x.png"
 how-to-create-description: |-
   ## How to create a webinar landing page?
 
