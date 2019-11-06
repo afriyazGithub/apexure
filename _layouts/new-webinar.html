@@ -85,7 +85,7 @@
                   <a href="javascript:" class="hover_link" id="scnd_col">
 {% for mega-guide-repeat-description in page.mega-guide-repeat-description %}
     
-      {{ mega-guide-repeat-description }}a
+      {{ mega-guide-repeat-description | markdownify }}
 
 {% endfor %}
  
@@ -93,37 +93,8 @@
                 </div>
               </div>
 
- 
-                <div class="col-md-4">
-                  <div class="center_content">
-                     <a href="javascript:" class="hover_link" id="third_col">
-                      <img src="images/why-webinar/g3.png" alt="why to use Landing pages" class="img-fluid">
-                    <h4>WHat you need to run an effective webinar campaign</h4></a>
-                  </div>
-                </div>
             </div><!-- row-->
           </div> <!-- outer_content_section_wrapper ends -->
-
-          <div class="row mx-auto">
-              <div class="col-md-4">
-                <div class="center_content">
-                  <a href="javascript:" class="hover_link"  id="forth_col"><img src="images/why-webinar/g4.png" alt="why to use Landing pages" class="img-fluid">
-                  <h4>What factors influence conversions on a webinar landing page </h4></a>
-                </div>
-              </div>
-              <div class="col-md-4">
-                <div class="center_content">
-                  <a href="javascript:" class="hover_link"  id="fifth_col"><img src="images/why-webinar/g5.png" alt="why to use Landing pages" class="img-fluid">
-                 <h4>What to consider when choosing a webinar platform </h4></a>
-                </div>
-              </div>
-                <div class="col-md-4">
-                  <div class="center_content">
-                    <a href="javascript:" class="hover_link" id="sixth_col"><img src="images/why-webinar/g6.png" alt="why to use Landing pages" class="img-fluid">
-                    <h4>Best webinar platform to check out in 2019</h4></a>
-                  </div>
-                </div>
-            </div>
             </div>
 
             <div class="make-down-cover">
@@ -202,7 +173,7 @@
  
             <div class="col-md-4">
               <div class="outer_wrapper no-height">
-                {{page.section-4-sub-heading3-description | markdownify}}
+                {{page.section-4-sub-heading3-description | markdownify }}
                 <div class="teafic-con">
                     <h4>Deliver Webinar </h4>
                     <p>To deliver an engaging and quality webinar you would need a quality tool that can deliver an engaging and reliable service. We have got this covered as well for you.  </p>
