@@ -48,6 +48,8 @@ mega-guide-repeat-description:
   ![g6.png](/uploads/g6.png)
 
   #### Best webinar platform to check out in 2019
+mega-guide-bottom-description: By the time you reach the end of this guide, you’ll
+  be an expert on crafting webinar landing pages and running webinars
 author: Waseem Bashir
 image: "/uploads/top-3-reasons-why-we-use-slack.jpg"
 take-away-image: "/uploads/3-reasons-why-we-use-slack.jpg"
