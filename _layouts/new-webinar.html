@@ -76,16 +76,24 @@
                 <div class="center_content">
                   <a href="javascript:" class="hover_link" id="first_col">
                     <img src="images/why-webinar/g1.png" alt="why to use Landing pages" class="img-fluid">
-                 <h4>What's a webinar?</h4></a>
+                 <h4>What's a webinar?</h4>
+               </a>
                 </div>
               </div>
               <div class="col-md-4">
                 <div class="center_content">
                   <a href="javascript:" class="hover_link" id="scnd_col">
-                    <img src="images/why-webinar/g2.png" alt="why to use Landing pages" class="img-fluid">
-                  <h4>How to create a webinar landing page</h4></a>
+{% for mega-guide-repeat-description in page.mega-guide-repeat-description %}
+    
+      {{ mega-guide-repeat-description }}a
+
+{% endfor %}
+ 
+                </a>
                 </div>
               </div>
+
+ 
                 <div class="col-md-4">
                   <div class="center_content">
                      <a href="javascript:" class="hover_link" id="third_col">
