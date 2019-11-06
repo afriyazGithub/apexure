@@ -155,7 +155,7 @@
 
 
 {% for how-to-create-repeater-description in page.how-to-create-repeater-description %}
- <li> {{ how-to-create-repeater-description }}</li>
+ <li> {{ how-to-create-repeater-description | markdownify }}</li>
 {% endfor %}
 
 
