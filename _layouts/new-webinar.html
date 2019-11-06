@@ -155,7 +155,8 @@
 
 
 {% for how-to-create-repeater-description in page.how-to-create-repeater-description %}
- <li><span class="curv-img"><img src="images/arrow.png" ></span> {{ how-to-create-repeater-description | markdownify }}</li>
+ <li><span class="curv-img"><img src="images/arrow.png" ></span>
+  <div class="mov-wrap">{{ how-to-create-repeater-description | markdownify }}</div></li>
 {% endfor %}
 
 
