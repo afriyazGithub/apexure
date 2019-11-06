@@ -68,6 +68,7 @@ effective-webinar-box-description:
   #### Follow Up
 
   Follow up is a key action which will determine your lead generation success. All the leads you generate need nurturing and constant follow up to increase your chances of success.
+effective-webinar-image: "/uploads/traffic.png"
 author: Waseem Bashir
 image: "/uploads/top-3-reasons-why-we-use-slack.jpg"
 take-away-image: "/uploads/3-reasons-why-we-use-slack.jpg"
