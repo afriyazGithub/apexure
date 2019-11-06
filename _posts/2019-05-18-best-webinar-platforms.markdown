@@ -7,6 +7,19 @@ how-to-create-description: |-
   ## How to create a webinar landing page?
 
   #### There Are Quite A Few Ways In Which You Can Setup A Landing Page For Your Webinar.
+how-to-create-repeater-description:
+- |-
+  #### Self hosted landing pages
+
+  If you host your website yourself and manage it directly without a content management system you can get going by either building a page in html/css and then hosting it. although it’s the most simplest way to get started but its not the most efficient. static web pages load up fast and you have granular control if you are a developer. however, most of the time it will be a job of a marketer to run lead generation campaigns like a webinar.
+- |-
+  #### **Landing page builders**
+
+  Landing page builders like unbounce, instapages, clickfunnels allow marketers to easily make edits and setup up split tests to increase conversions. all page builders offer drag and drop builders which allow non-it people to build pages, host and publish them without involving it. Landing page builders like unbounce allows users to add custom scripts. using custom scripts you can add add-ons like countdown timers, show proof, speaker profiles etc.
+- |-
+  #### **CMS based website builders**
+
+  When it comes to managing a website the first technology which comes to mind is wordpress. yes, you can create a landing page in wordpress and style it to match your brand, it’s just landing page builders such as unbounce are designed from the ground up to host landing pages. Wordpress webinar landing pages will do most of the heavy lifting but would need a proficient web designer/developer to make edits.
 author: Waseem Bashir
 image: "/uploads/top-3-reasons-why-we-use-slack.jpg"
 take-away-image: "/uploads/3-reasons-why-we-use-slack.jpg"
@@ -25,19 +38,6 @@ meta-keywords: Slack best practices, How to use slack,  Slack for Business, Slac
 description: As an agency, we love Slack. It makes our work life more manageable and
   effective. Using the tool for a few years, we have learned many lessons and share
   the best practices for using Slack for business.
-how-to-create-repeater-description:
-- |-
-  #### Self hosted landing pages
-
-  If you host your website yourself and manage it directly without a content management system you can get going by either building a page in html/css and then hosting it. although it’s the most simplest way to get started but its not the most efficient. static web pages load up fast and you have granular control if you are a developer. however, most of the time it will be a job of a marketer to run lead generation campaigns like a webinar.
-- |-
-  #### **Landing page builders**
-
-  Landing page builders like unbounce, instapages, clickfunnels allow marketers to easily make edits and setup up split tests to increase conversions. all page builders offer drag and drop builders which allow non-it people to build pages, host and publish them without involving it. Landing page builders like unbounce allows users to add custom scripts. using custom scripts you can add add-ons like countdown timers, show proof, speaker profiles etc.
-- |-
-  #### **CMS based website builders**
-
-  When it comes to managing a website the first technology which comes to mind is wordpress. yes, you can create a landing page in wordpress and style it to match your brand, it’s just landing page builders such as unbounce are designed from the ground up to host landing pages. Wordpress webinar landing pages will do most of the heavy lifting but would need a proficient web designer/developer to make edits.
 layout: new-webinar
 ---
 
