@@ -50,6 +50,24 @@ mega-guide-repeat-description:
   #### Best webinar platform to check out in 2019
 mega-guide-bottom-description: By the time you reach the end of this guide, you’ll
   be an expert on crafting webinar landing pages and running webinars
+effective-webinar: What you need to run an effective webinar campaign
+effective-webinar-box-description:
+- |-
+  #### Traffic
+
+  In order to generate new leads, you can run Facebook ads and drive traffic to your landing page. Although you might be tempted to call it a webinar we would recommend using something else e.g. conference, showcase, pitch night, demo day etc. I personally think the marketing world is saturated with the word webinars in general and you come up with clever ideas to stand out from the crowd.
+- |-
+  #### A Webinar Landing Page
+
+  You need a dedicated landing page where you can send your traffic and we will cover this in detail today.
+- |-
+  #### Deliver Webinar
+
+  To deliver an engaging and quality webinar you would need a quality tool that can deliver an engaging and reliable service. We have got this covered as well for you.
+- |-
+  #### Follow Up
+
+  Follow up is a key action which will determine your lead generation success. All the leads you generate need nurturing and constant follow up to increase your chances of success.
 author: Waseem Bashir
 image: "/uploads/top-3-reasons-why-we-use-slack.jpg"
 take-away-image: "/uploads/3-reasons-why-we-use-slack.jpg"
