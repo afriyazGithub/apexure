@@ -27,15 +27,15 @@ mega-guide-repeat-description:
 - |-
   ![g1.png](/uploads/g1.png)
 
-  #### How to create a webinar landing page
+  #### What’s a webinar
 - |-
   ![g2.png](/uploads/g2.png)
 
-  #### WHat you need to run an effective webinar campaign
+  #### How to create a webinar landing page
 - |-
   ![g3.png](/uploads/g3.png)
 
-  #### WHat you need to run an effective webinar campaign
+  #### What you need to run an effective webinar campaign
 - |-
   ![g4.png](/uploads/g4.png)
 
